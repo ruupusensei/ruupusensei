@@ -1,4 +1,4 @@
-- Hi, I’m @ruupusensei, or Luke! I'm currently a Computer Science Master student at Illinois Institute or Technology, set to graduate May 2022. 
+- Hi, I’m @ruupusensei, or Luke! I'm currently a Computer Science Masters student at Illinois Institute or Technology, set to graduate May 2022. 
 - I’m interested in efficient algorithm design, machine learning, natural langage processing, and website and applciation development. 
 - I'm currently learning Java, Python, HTML, CSS, JavaScript, and whatever else might catch my eye. 
 
